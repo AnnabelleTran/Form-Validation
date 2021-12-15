@@ -1,0 +1,42 @@
+
+
+form{
+    background-color: lavender;
+    margin: 8vw 25vw;
+    text-align: center;
+    line-height: .75vw;
+}
+label{
+    text-align: left;
+}
+input{
+    padding: 1vw .5vw;
+    border-radius: .5vw;
+    border: 1px solid lightgray;
+}
+select{
+    padding:1vw .5vw;
+    border-radius: .5vw;
+    border:1px solid lightgray;
+    margin-bottom: 1vw;
+}
+button{
+    background-color: gray;
+    color:white;
+    padding: 1vw;
+    font-size: 1.5vw;
+    border: gray 1px solid;
+}
+.container{
+    margin: 1.5vw 1vw;
+    display:flex;
+    flex-direction: column;
+    padding: .5vw; 
+}
+fieldset{
+    text-align: left;
+}
+.outside{
+    padding: 1vw;  
+}
+
